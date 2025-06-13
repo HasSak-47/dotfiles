@@ -10,3 +10,6 @@
 [submodule "waybar"]
 	path = waybar
 	url = git@github.com:HasSak-47/waybar.git
+[submodule "hypr"]
+	path = hypr
+	url = git@github.com:HasSak-47/hypr.git
