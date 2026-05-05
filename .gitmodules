@@ -1,15 +1,20 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:HasSak-47/LyVim.git
+    branch = main
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:HasSak-47/tmux.git
+    branch = main
 [submodule "sway"]
 	path = sway
 	url = git@github.com:HasSak-47/sway.git
+    branch = main
 [submodule "waybar"]
 	path = waybar
 	url = git@github.com:HasSak-47/waybar.git
+    branch = main
 [submodule "hypr"]
 	path = hypr
 	url = git@github.com:HasSak-47/hypr.git
+    branch = main
