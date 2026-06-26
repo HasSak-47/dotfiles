@@ -1,0 +1,8 @@
+env = GTK_IM_MODULE=simple
+
+background-opacity = 0.8
+background = #000000
+font-family = FiraCode Nerd Font Mono
+window-decoration = server
+keybind = all:ctrl+alt+r=reload_config
+theme = Kanagawa Dragon
